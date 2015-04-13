@@ -13,3 +13,11 @@ unzip master.zip<br>
 cd PPTP-Script-Centos5-6-master<br>
 chmod a+x pptp-vpn-centos-5-6.sh <br>
 bash pptp-vpn-centos-5-6.sh <br>
+
+在 PPTP-Script-Centos5-6-master 文件夹下使用如下指令可以进行添加用户和查看在线用户等操作<br>
+bash pptp-vpn-centos-5-6.sh <br>
+
+<br>
+进入PPTP-Script-Centos5-6-master 文件夹方法<br>
+cd<br>
+cd PPTP-Script-Centos5-6-master<br>
