@@ -8,6 +8,6 @@ PPTP-Script-Centos5-6
 Centos
 
 wget https://github.com/Steven-Yu/PPTP-Script-Centos5-6/archive/master.zip<br>
-unzip PPTP-Script-Centos5-6-master.zip
+unzip PPTP-Script-Centos5-6-master.zip<br>
 chmod a+x pptp-vpn-centos-5-6.sh <br>
 bash pptp-vpn-centos-5-6.sh <br>
