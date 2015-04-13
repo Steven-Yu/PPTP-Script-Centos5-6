@@ -10,5 +10,6 @@ Centos
 wget https://github.com/Steven-Yu/PPTP-Script-Centos5-6/archive/master.zip<br>
 yum -y install unzip
 unzip master.zip<br>
+cd PPTP-Script-Centos5-6-master<br>
 chmod a+x pptp-vpn-centos-5-6.sh <br>
 bash pptp-vpn-centos-5-6.sh <br>
